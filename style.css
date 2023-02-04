@@ -1,0 +1,761 @@
+        body {
+            margin: 0;
+        }
+        
+        .main-body {
+            width: 100%;
+            height: 900px;
+            background: rgb(18, 13, 30);
+        }
+        
+        .header {
+            width: 100%;
+        }
+        
+        .left-header {
+            color: rgb(223, 224, 226);
+            font-size: 35px;
+            width: 50%;
+            height: 40px;
+            background: rgb(18, 13, 30);
+            text-align: left;
+            float: left;
+            padding-left: 2px;
+        }
+        
+        .right-header {
+            color: rgb(223, 224, 226);
+            font-size: 35px;
+            width: 50%;
+            height: 40px;
+            text-align: right;
+            background: rgb(18, 13, 30);
+            float: left;
+            padding-right: 10px;
+        }
+        
+        .left-section {
+            width: 60%;
+            background: rgb(18, 13, 30);
+            height: 800px;
+            float: left;
+        }
+        
+        .right-section {
+            width: 40%;
+            background: rgb(18, 13, 30);
+            height: 800px;
+            float: left;
+        }
+        
+        #rcorner1 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 30%;
+            height: 200px;
+            float: left;
+            margin: 5px;
+        }
+        
+        #rcorner2 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 68%;
+            height: 200px;
+            float: left;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            margin-right: 0;
+        }
+        
+        #rcorner3 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 30%;
+            height: 200px;
+            float: left;
+            margin: 5px;
+        }
+        
+        #rcorner4 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 68%;
+            height: 200px;
+            float: left;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            margin-right: 0;
+        }
+        
+        #rcorner5 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 99%;
+            height: 134px;
+            float: left;
+            float: left;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            margin-right: 0;
+        }
+        
+        #rcorner6 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 98%;
+            height: 200px;
+            margin: 5px;
+            float: left;
+        }
+        
+        #rcorner7 {
+            border-radius: 5px;
+            border: 2px solid #c2c4bf;
+            padding: 5px;
+            width: 98%;
+            height: 345px;
+            margin: 5px;
+            float: left;
+        }
+        
+        .box1 {
+            color: #c2c4bf;
+            font-size: 10px;
+        }
+        
+        #a {
+            color: aliceblue;
+            font-size: 30px;
+            font-family: bold;
+        }
+        
+        .image1 {
+            border-radius: 50%;
+            height: 100px;
+            width: 50px;
+            padding: 10px;
+        }
+        
+        #b {
+            text-align: left;
+            color: #c2c4bf;
+            font-size: 10px;
+        }
+        
+        #c {
+            color: #c2c4bf;
+            text-align: right;
+            font-size: 15px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        #d {
+            color: aliceblue;
+            font-size: 30px;
+            font-family: monospace;
+            text-align: right;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        p {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        .sub1 {
+            color: #c2c4bf;
+            width: 50%;
+            font-size: 15px;
+            float: left;
+        }
+        
+        .sub2 {
+            color: #c2c4bf;
+            width: 50%;
+            font-size: 15px;
+            text-align: right;
+            float: left;
+        }
+        
+        #e {
+            color: aliceblue;
+            font-size: 30px;
+            font-family: monospace;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        #f {
+            color: aliceblue;
+            font-size: 30px;
+            font-family: monospace;
+            text-align: right;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        .p-bar {
+            width: 100%;
+            background: white;
+            height: 20px;
+        }
+        
+        .p-bar1 {
+            width: 40%;
+            height: 20px;
+            background: greenyellow;
+            float: left;
+        }
+        
+        .p-bar2 {
+            width: 60%;
+            height: 20px;
+            background: rgb(55, 46, 76);
+            float: left;
+        }
+        
+        .box3 {
+            color: #c2c4bf;
+            font-size: 10px;
+        }
+        
+        #g {
+            font-size: 20px;
+        }
+        
+        #h {
+            font-size: 30px;
+            color: aliceblue;
+        }
+        
+        .ad {
+            width: 100%;
+            height: 50px;
+        }
+        
+        .ad-1 {
+            color: #c2c4bf;
+            font-size: 10px;
+            width: 50%;
+            height: 50px;
+            float: left;
+        }
+        
+        .ad-2 {
+            width: 50%;
+            height: 50px;
+            float: left;
+        }
+        
+        .image2 {
+            float: right;
+        }
+        
+        .da {
+            width: 100%;
+        }
+        
+        .da-1 {
+            width: 33.33%;
+            color: white;
+            font-size: 20px;
+            float: left;
+        }
+        
+        .da-2 {
+            width: 33.33%;
+            color: white;
+            font-size: 20px;
+            float: left;
+        }
+        
+        .da-3 {
+            width: 33.33%;
+            color: white;
+            font-size: 20px;
+            float: left;
+        }
+        
+        #a1 {
+            color: #c2c4bf;
+            font-size: 15px;
+        }
+        
+        #a2 {
+            color: #c2c4bf;
+            font-size: 15px;
+        }
+        
+        #a3 {
+            color: #c2c4bf;
+            font-size: 15px;
+        }
+        
+        .box5 {
+            color: #c2c4bf;
+            font-size: 10px;
+        }
+        
+        .stacked {
+            width: 100%;
+            height: 80px;
+            margin-top: 10px;
+            background: greenyellow;
+        }
+        
+        .no1 {
+            background: greenyellow;
+            width: 12%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no2 {
+            background: red;
+            width: 1.5%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no3 {
+            background: greenyellow;
+            width: 12%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no4 {
+            background: red;
+            width: 5%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no5 {
+            background: greenyellow;
+            width: 24%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no6 {
+            background: red;
+            width: 1%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no7 {
+            background: grey;
+            width: 4%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no8 {
+            background: red;
+            width: .75%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no9 {
+            background: greenyellow;
+            width: 1.75%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no10 {
+            background: grey;
+            width: 3%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no11 {
+            background: red;
+            width: 12%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no12 {
+            background: greenyellow;
+            width: 3%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no13 {
+            background: grey;
+            width: 3%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no14 {
+            background: red;
+            width: .25%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no15 {
+            background: greenyellow;
+            width: 9%;
+            height: 80px;
+            float: left;
+        }
+        
+        .no16 {
+            background: greenyellow;
+            width: 7.25%;
+            height: 80px;
+            float: left;
+        }
+        
+        .nums {
+            width: 100%;
+            height: 20px;
+        }
+        
+        .i1 {
+            width: 13.5%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i2 {
+            width: 12%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i3 {
+            width: 5%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i4 {
+            width: 7%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i5 {
+            width: 18%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i6 {
+            width: 9.5%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i7 {
+            width: 18.5%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i8 {
+            width: 9%;
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .i9 {
+            color: #c2c4bf;
+            font-size: 8px;
+            float: left;
+        }
+        
+        .s-box {
+            padding: 2px;
+            width: 100%;
+            height: 130px;
+        }
+        
+        .e-box1 {
+            background: red;
+            width: 19%;
+            height: 120px;
+            float: left;
+            margin: 2px;
+        }
+        
+        .e-box2 {
+            background: greenyellow;
+            width: 19%;
+            height: 120px;
+            float: left;
+            margin: 2px;
+        }
+        
+        .e-box3 {
+            background: greenyellow;
+            width: 19%;
+            height: 120px;
+            float: left;
+            margin: 2px;
+        }
+        
+        .e-box4 {
+            background: red;
+            width: 19%;
+            height: 120px;
+            float: left;
+            margin: 2px;
+        }
+        
+        .e-box5 {
+            background: greenyellow;
+            width: 19%;
+            height: 120px;
+            float: left;
+            margin: 2px;
+        }
+        
+        .pa1 {
+            color: rgb(42, 47, 49);
+            font-size: 25px;
+            padding-top: 15px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .pa2 {
+            width: 100%;
+            height: 15px;
+            background: rgb(55, 46, 76);
+            padding-top: 2.5px;
+            padding-bottom: 2.5px;
+            padding-left: .5px;
+            padding-right: 2.5px;
+        }
+        
+        .pa2-1 {
+            width: 50%;
+            background: red;
+            height: 10px;
+            float: left;
+        }
+        
+        .pa2-2 {
+            width: 50%;
+            background: rgb(55, 46, 76);
+            height: 10px;
+            float: right;
+        }
+        
+        .pa3 {
+            color: rgb(42, 47, 49);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        
+        .pb1 {
+            color: rgb(42, 47, 49);
+            font-size: 25px;
+            padding-top: 15px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .pb2 {
+            width: 100%;
+            height: 15px;
+            background: rgb(55, 46, 76);
+            padding-top: 2.5px;
+            padding-bottom: 2.5px;
+            padding-left: .5px;
+            padding-right: 2.5px;
+        }
+        
+        .pb2-1 {
+            width: 10%;
+            background: greenyellow;
+            height: 10px;
+            float: left;
+        }
+        
+        .pb2-2 {
+            width: 90%;
+            background: rgb(55, 46, 76);
+            height: 10px;
+            float: right;
+        }
+        
+        .pb3 {
+            color: rgb(42, 47, 49);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        
+        .pc1 {
+            color: rgb(42, 47, 49);
+            font-size: 25px;
+            padding-top: 15px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .pc2 {
+            width: 100%;
+            height: 15px;
+            background: rgb(55, 46, 76);
+            padding-top: 2.5px;
+            padding-bottom: 2.5px;
+            padding-left: .5px;
+            padding-right: 2.5px;
+        }
+        
+        .pc2-1 {
+            width: 99%;
+            background: greenyellow;
+            height: 10px;
+            float: left;
+        }
+        
+        .pc2-2 {
+            width: 1%;
+            background: rgb(55, 46, 76);
+            height: 10px;
+            float: right;
+        }
+        
+        .pc3 {
+            color: rgb(42, 47, 49);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        
+        .pd1 {
+            color: rgb(42, 47, 49);
+            font-size: 25px;
+            padding-top: 15px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .pd2 {
+            width: 100%;
+            height: 15px;
+            background: rgb(55, 46, 76);
+            padding-top: 2.5px;
+            padding-bottom: 2.5px;
+            padding-left: .5px;
+            padding-right: 2.5px;
+        }
+        
+        .pd2-1 {
+            width: 97%;
+            background: red;
+            height: 10px;
+            float: left;
+        }
+        
+        .pd2-2 {
+            width: 3%;
+            background: rgb(55, 46, 76);
+            height: 10px;
+            float: right;
+        }
+        
+        .pd3 {
+            color: rgb(42, 47, 49);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        
+        .pe1 {
+            color: rgb(42, 47, 49);
+            font-size: 25px;
+            padding-top: 15px;
+            text-align: center;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .pe2 {
+            width: 100%;
+            height: 15px;
+            background: rgb(55, 46, 76);
+            padding-top: 2.5px;
+            padding-bottom: 2.5px;
+            padding-left: .5px;
+            padding-right: 2.5px;
+        }
+        
+        .pe2-1 {
+            width: 30%;
+            background: greenyellow;
+            height: 10px;
+            float: left;
+        }
+        
+        .pe2-2 {
+            width: 70%;
+            background: rgb(55, 46, 76);
+            height: 10px;
+            float: right;
+        }
+        
+        .pe3 {
+            color: rgb(42, 47, 49);
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        
+        .d-box6 {
+            color: white;
+            font-size: 21px;
+        }
+        
+        .box6 {
+            color: #c2c4bf;
+            font-size: 12px;
+        }
+        
+        .box7 {
+            color: #c2c4bf;
+            font-size: 12px;
+        }
+        
+        .box7-1 {
+            color: aliceblue;
+            font-size: 18px;
+        }
+        
+        .box7-2 {
+            color: #c2c4bf;
+            font-size: 8px;
+        }
